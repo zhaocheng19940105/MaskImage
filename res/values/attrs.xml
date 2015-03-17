@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MaskImage">
+        <attr name="mask_image" format="reference|integer" />
+        <attr name="mask_image_click" format="reference|integer" />
+    </declare-styleable>
+</resources>
